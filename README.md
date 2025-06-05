@@ -72,14 +72,6 @@ Each raster layer is in its own dataframe with a dedicated legend.
 
 ---
 
-## Deliverables
-
-- Professional map layout with 8 data frames and legends
-- Summary answers to lab questions
-- Key raster outputs stored as `.tif` and `.img` files
-
----
-
 ## Date
 
 October 2023  
